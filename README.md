@@ -1,3 +1,1 @@
-"# wiktorkwarciak" 
-
-This is first update using VS code.
+"I am Weasel" 
