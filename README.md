@@ -1,6 +1,4 @@
-"I am Weasel" 
-
-And now this file was changed.
+I am replacing 2 lines with this one.
 
 2022-09-16: adding third line.
 
